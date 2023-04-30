@@ -11,3 +11,6 @@ At a high-level HOC enables you to:
 
 ## Purpose of HOC:
 In React, the main purpose of a higher-order component is to share common functionality between components without having to repeat code.
+
+## Reference:
+https://medium.com/geekculture/understanding-react-higher-order-component-hoc-8e7a96820205
