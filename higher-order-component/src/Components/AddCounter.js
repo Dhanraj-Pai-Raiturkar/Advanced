@@ -19,6 +19,6 @@ const AddCounter = (WrappedComponent) => {
                         return <WrappedComponent counterHandler={this.incrementCount} count={this.state.count} {...this.props} />
                 }
         }
-};
+}
 
 export default AddCounter;
