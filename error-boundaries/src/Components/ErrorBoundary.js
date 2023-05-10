@@ -28,8 +28,4 @@ class ErrorBoundary extends Component {
     }
 }
 
-ErrorBoundary.propTypes = {
-
-};
-
 export default ErrorBoundary;
