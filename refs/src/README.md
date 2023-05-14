@@ -29,6 +29,6 @@ For example, instead of exposing open() and close() methods on a Dialog componen
 
 
 ## Video Reference:
-https://youtu.be/FXa9mMTKOu8
-https://youtu.be/8aCXVC9Qmto
-https://youtu.be/RLWniwmfdq4
+* https://youtu.be/FXa9mMTKOu8
+* https://youtu.be/8aCXVC9Qmto
+* https://youtu.be/RLWniwmfdq4
